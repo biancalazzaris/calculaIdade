@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "projetovazio",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
